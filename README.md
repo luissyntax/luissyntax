@@ -3,12 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f7f15&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luís+Ribeiro;I'm+17+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luis-sn4&show_icons=true&count_private=true&hide_border=true&title_color=1f7f15&icon_color=1f7f15&text_color=469f38&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luissyntax&show_icons=true&count_private=true&hide_border=true&title_color=1f7f15&icon_color=1f7f15&text_color=469f38&bg_color=0d1117" alt="Luís Ribeiro github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-sn4&layout=compact&hide_border=true&title_color=1f7f15&text_color=469f38&bg_color=0d1117" />
 </div>
 
 <div align="center"> 
-<a href="https://www.instagram.com/luis.sn4/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/luisynax/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/luis-ribeiro-1a3125257/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
   
